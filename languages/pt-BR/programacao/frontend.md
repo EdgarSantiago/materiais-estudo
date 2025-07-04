@@ -21,6 +21,19 @@ _(Adicione links de cursos, vídeos e tutoriais introdutórios para HTML, CSS e 
 - JavaScript: interatividade e lógica de programação no navegador
 - DOM: manipulação da estrutura da página via JavaScript
 - APIs Web: requisições HTTP, localStorage, etc.
+- SEO básico: boas práticas para otimização em mecanismos de busca
+- Responsividade: design adaptável a diferentes tamanhos de tela
+- Componentes e design system
+- SPA vs MPA: aplicações de página única vs múltiplas páginas
+- Ciclo de vida dos componentes (especialmente em frameworks como React ou Vue)
+- Gerenciamento de estado (com ou sem bibliotecas como Redux, Pinia ou Context API)
+- Tipagem e linting com TypeScript e ESLint
+- Controle de versão com Git e GitHub
+- Testes automatizados (Jest, Testing Library, Cypress)
+- Integração com APIs REST e GraphQL
+- Gerenciamento de pacotes com npm, yarn ou pnpm
+- Animações com CSS ou bibliotecas como Framer Motion e GSAP
+- Web performance: Lighthouse, lazy loading, code splitting
 
 ## 🧰 Ferramentas Essenciais
 
